@@ -64,7 +64,7 @@
                         <label><input class="w3-radio" type="radio" name="jk" value="perempuan"> Perempuan</label>
                     </div>
                 </div>
-                <button type="submit" class="w3-button w3-block w3-section w3-blue w3-ripple w3-padding">Register</button>
+                <button type="submit" class="w3-button w3-block w3-section w3-blue w3-ripple w3-padding">Edit</button>
             </form>
         </div>
     </div>
